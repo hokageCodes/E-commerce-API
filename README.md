@@ -6,6 +6,13 @@
 - dotenv
 - nodemon
 
+### Stack
+- ReactJS and react-router-dom 
+- NodeJs and Express
+- Mongo DB
+- Postman and MongoDB compass for testing and validations
+
+
 ## Build Process
 ### Boiler Plate
 - Prepared server and database connection with express and MONGODB
@@ -20,6 +27,3 @@
 - update-a-user route created for user's details to be updated 
 - delete-a-user route created for user's details to be deleted by their ID
 - user-stats route created that'll monitor registered number of users per month (for a chart for admin later) 
-
-
-
