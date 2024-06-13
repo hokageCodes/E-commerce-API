@@ -15,5 +15,11 @@
 - Creating register route, to register users securely to the DB
 - using CryptoJs to hash user password for security
 - Login route created
+- get-a-user route created to get one user by ID
+- get-all-users route created to get all registered users
+- update-a-user route created for user's details to be updated 
+- delete-a-user route created for user's details to be deleted by their ID
+- user-stats route created that'll monitor registered number of users per month (for a chart for admin later) 
+
 
 
