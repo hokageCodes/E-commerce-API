@@ -27,3 +27,9 @@
 - update-a-user route created for user's details to be updated 
 - delete-a-user route created for user's details to be deleted by their ID
 - user-stats route created that'll monitor registered number of users per month (for a chart for admin later) 
+
+### Products
+- Created route for admin to add / create products
+- Created open route to get single product
+- Created open route to get all products
+- Created feature to get products by category, or title or newly added products
