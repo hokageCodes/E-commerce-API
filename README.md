@@ -33,3 +33,16 @@
 - Created open route to get single product
 - Created open route to get all products
 - Created feature to get products by category, or title or newly added products
+- Created route for admin to Delete products
+
+### Orders
+- Created route for admin to add / create orders
+- Created open route to get single order
+- Created open route to get all orders
+- Created route for admin to Delete orders
+
+
+### Carts
+- Created route for users to add / create cart
+- Created open route to display all carts for users
+- Created route for users to Delete products from cart
